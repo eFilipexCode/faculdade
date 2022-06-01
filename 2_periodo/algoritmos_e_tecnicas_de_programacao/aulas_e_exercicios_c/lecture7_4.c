@@ -2,8 +2,8 @@
 
 struct Flight {
     int numFlight;
-    char origin[50];
-    char destination[50];
+    char origin[20];
+    char destination[20];
 };
 
 int main() {
@@ -18,11 +18,11 @@ int main() {
         printf("Digite o numero do %dn voo: ", i + 1);
         scanf("%d", &flights[i].numFlight);
 
-        char origin[50];
-        scanf("%s", &origin);
+        printf("Digite o local de origem: ");
+        scanf("%s", &flights[i].origin);
 
-        char destination[50];
-        scanf("%s", &destination);
+        printf("Digite o local de destino: ");
+        scanf("%s", &flights[i].destination);
     };
 
     printf("Lista dos proximos voos:\n");
@@ -30,6 +30,7 @@ int main() {
     for (int i = 0; i < qtFlight; i++) {
         printf("    %d  | ", flights[i].numFlight);
         printf("    %s  | ", flights[i].origin);
+        printf("    %s  |  \n", flights[i].destination);
     };
 
     return 0;
