@@ -13,7 +13,7 @@ Repositório para minhas atividades na faculdade do curso de Sistemas de Informa
 ## 2° Período
 
 ### Matérias do segundo período:
-- Modelagem de Dados 🎲
+- Modelagem de Dados 🎲✔
 - Algorítimos e Técnicas de Programação 👨‍💻
 - Sistemas Operacionais 🖥
 - Redes de Computadores 🧶
