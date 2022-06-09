@@ -25,3 +25,7 @@ Repositório para minhas atividades na faculdade do curso de Sistemas de Informa
 ### Matérias do terceiro período:
 
 ...
+
+## Links Úteis
+
+- [Notion do curso](https://lean-park-1c9.notion.site/Faculdade-7ff91d7b63f744d5ad85c7efff3bb8e1)
