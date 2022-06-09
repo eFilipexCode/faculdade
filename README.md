@@ -1,10 +1,11 @@
 # faculdade
-Repositório para minhas atividades na faculdade do curso de Sistemas de Informação
 
+Repositório para minhas atividades na faculdade do curso de Sistemas de Informação
 
 ## 1° Período
 
 ### Matérias do primeiro período:
+
 - Arquitetura e Organização de Computadores 💻✔
 - Gestão de Projetos 🏗✔
 - Teoria Geral da Admnistração 👔✔
@@ -13,7 +14,14 @@ Repositório para minhas atividades na faculdade do curso de Sistemas de Informa
 ## 2° Período
 
 ### Matérias do segundo período:
+
 - Modelagem de Dados 🎲✔
 - Algorítimos e Técnicas de Programação 👨‍💻
 - Sistemas Operacionais 🖥
 - Redes de Computadores 🧶
+
+## 3° Período
+
+### Matérias do terceiro período:
+
+...
